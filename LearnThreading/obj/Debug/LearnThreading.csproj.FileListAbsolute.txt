@@ -1,0 +1,5 @@
+E:\My Projects\CSharpExam483\LearnThreading\bin\Debug\LearnThreading.exe
+E:\My Projects\CSharpExam483\LearnThreading\bin\Debug\LearnThreading.pdb
+E:\My Projects\CSharpExam483\LearnThreading\obj\Debug\LearnThreading.csprojResolveAssemblyReference.cache
+E:\My Projects\CSharpExam483\LearnThreading\obj\Debug\LearnThreading.exe
+E:\My Projects\CSharpExam483\LearnThreading\obj\Debug\LearnThreading.pdb
